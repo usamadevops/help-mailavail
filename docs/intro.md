@@ -6,7 +6,7 @@ custom_edit_url: null
 
 # Introduction
 
-# Welcome to MailAvail Email Marketing Documentation
+# Welcome to MailAvail
 
 Unlock the full potential of your email marketing campaigns with **MailAvail**, your trusted partner in email verification services. In an era where effective communication is paramount, ensuring the accuracy and validity of your email lists is the key to success. Our platform is designed to empower marketers and businesses by offering seamless and reliable email verification services for a variety of email providers, including **Yahoo**, **Gmail**, and **Outlook**.
 
