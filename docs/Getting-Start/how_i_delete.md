@@ -1,5 +1,6 @@
 ---
 title: How do i delete my account
+custom_edit_url: null
 sidebar_position: 2
 ---
 # How Do I Delete My Account

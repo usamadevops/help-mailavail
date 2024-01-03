@@ -1,5 +1,6 @@
 ---
 title: How do i get started
+custom_edit_url: null
 sidebar_position: 1
 ---
 
@@ -15,12 +16,12 @@ sidebar_position: 1
 2. **Single Email Verification:**
    Explore our step-by-step guide on how to verify a single email address using MailAvail. Ensure that each communication counts by confirming the accuracy of individual contacts.
 
-   ![image](img/single_verification.png)
+   ![image](img/single_verification.gif)
 
 3. **Bulk Email Verification:**
    For those with extensive email lists, our bulk verification guide walks you through the process of uploading and verifying large sets of email addresses efficiently.
 
-   ![image](img/bulk_emails.png)
+   ![image](img/bulk_emails.gif)
 
 4. **Interpreting Results:**
    Learn how to interpret the results of your verification process. Understand the different statuses and take action to clean and optimize your email lists.

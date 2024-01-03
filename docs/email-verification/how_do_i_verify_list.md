@@ -1,5 +1,6 @@
 ---
 title: How do I verify my list?
+custom_edit_url: null
 sidebar_position: 2
 ---
 

@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Mailavail Help',
-  tagline: 'This site will provide you complete information about mailavail ',
+  tagline: 'Elevating Your Email Experience with Expert Support',
   favicon: 'img/logo.png',
 
   // Set the production url of your site here
@@ -103,15 +103,19 @@ const config = {
             items: [
               {
                 label: 'Facebook',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                href: 'https://m.facebook.com/mailavailoffical',
               },
               {
                 label: 'Instagram',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://www.instagram.com/mailavail/',
               },
               {
                 label: 'LinkedIn',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://www.linkedin.com/company/mailavail/',
+              },
+              {
+                label: 'Twitter',
+                href: 'https://twitter.com/Mailavail',
               },
             ],
           },
@@ -120,11 +124,15 @@ const config = {
             items: [
               // {
               //   label: 'Blog',
-                // to: '/blog',
+              //   to: '/blog',
               // },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Visit Website',
+                href: 'https://www.mailavail.io/',
+              },
+              {
+                label: 'Contact',
+                href: 'https://www.mailavail.io/contactus',
               },
             ],
           },

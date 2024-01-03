@@ -1,5 +1,6 @@
 ---
 title: What payment methods are accepted?
+custom_edit_url: null
 sidebar_position: 1
 ---
 
@@ -9,7 +10,3 @@ sidebar_position: 1
 # Accepted Payment Method
 
 For payment, only credit cards are accepted. This ensures a streamlined and secure payment process, allowing users to make transactions conveniently using their credit cards.
-
-require('@site/static/img/fast_and_relaiables.svg')
-
-![image](img/localeDropdown.png)

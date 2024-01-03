@@ -1,5 +1,6 @@
 ---
 title: How do credits work?
+custom_edit_url: null
 sidebar_position: 2
 ---
 

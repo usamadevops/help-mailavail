@@ -12,6 +12,7 @@ const FeatureList = [
       </>
     ),
   },
+
   {
     title: 'Fast and Reliable',
     Svg: require('@site/static/img/fast_and_relaiables.svg').default,
@@ -21,12 +22,42 @@ const FeatureList = [
       </>
     ),
   },
+
   {
     title: 'Free Email Checking',
-    Svg: require('@site/static/img/free_emails.svg').default,
+    Svg: require('@site/static/img/free_emails_check.svg').default,
     description: (
       <>
         Get Accurate Results Without Breaking the Bank with Our Free Single Email Verification Service.
+      </>
+    ),
+  },
+  
+  {
+    title: 'Secure',
+    Svg: require('@site/static/img/free_emails_check.svg').default,
+    description: (
+      <>
+        Verify email addresses confidently with our secure SAAS solution.
+      </>
+    ),
+  },
+  {
+    title: 'Secure Payment System',
+    Svg: require('@site/static/img/free_emails_check.svg').default,
+    description: (
+      <>
+        Secure your financial information with our safe email verification payment system.
+      </>
+    ),
+  },
+  
+  {
+    title: 'Keep No Track of Emails',
+    Svg: require('@site/static/img/free_emails_check.svg').default,
+    description: (
+      <>
+        Ensure privacy and no tracking with our confidential email validation solution.
       </>
     ),
   },
