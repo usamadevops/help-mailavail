@@ -10,4 +10,4 @@ Certainly! You have the capability to add more than one list to a single directo
 
 Click on the '**Add to Directory**' button, and a menu will display the available directory names. You can then choose the desired directory and proceed to add your lists to it. This user-friendly feature streamlines the process of grouping multiple email lists into a specific directory, providing you with an efficient way to organize and manage your data within Mailavail.
 
-![img](img/add_multiple_list_in_direcotory.gif)
+![img](img/add_multiple_list_in_direcotory.webp)

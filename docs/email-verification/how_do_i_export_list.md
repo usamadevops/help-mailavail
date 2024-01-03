@@ -14,6 +14,6 @@ After completing the verification of your email list, follow these steps:
 2. Choose your preferred format.
 3. Confirm the export.
 
-![image](img/export_list.gif)
+![image](img/export_list.webp)
 
 Upon completing these steps, your file will be exported, providing you with a conveniently formatted and easily usable version of your verified email list.

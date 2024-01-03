@@ -10,7 +10,7 @@ Certainly! To create a new directory, navigate to the **Directory** section. The
 
 Clicking on this option will open a modal prompting you to name your new directory. Once you've named the directory, it is created by clicking the '**Create**' button. 
 
-![image](img/create_directory.gif)
+![image](img/create_directory.webp)
 
 This straightforward process allows users to efficiently establish and customize directories for organizing their email lists in Mailavail.
 

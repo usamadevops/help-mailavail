@@ -10,4 +10,4 @@ sidebar_position: 1
 
 You have the option to share your credits with your team. Simply click on the "Edit" button, where you can enter the desired credit amount and allocate it to a team member. This feature allows for seamless sharing of credits within your team, promoting collaborative usage and efficient resource management.
 
-![image](img/credits_update.gif)
+![image](img/credits_update.webp)
