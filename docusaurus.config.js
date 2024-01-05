@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Mailavail Help',
   tagline: 'Elevating Your Email Experience with Expert Support',
-  favicon: 'img/logo.png',
+  favicon: 'img/logo1.png',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-site.example.com',
@@ -64,7 +64,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      // image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'Mailavail Help',
         logo: {

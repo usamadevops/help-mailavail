@@ -35,7 +35,7 @@ const FeatureList = [
   
   {
     title: 'Secure',
-    Svg: require('@site/static/img/free_emails_check.svg').default,
+    Svg: require('@site/static/img/secure.svg').default,
     description: (
       <>
         Verify email addresses confidently with our secure SAAS solution.
@@ -44,7 +44,7 @@ const FeatureList = [
   },
   {
     title: 'Secure Payment System',
-    Svg: require('@site/static/img/free_emails_check.svg').default,
+    Svg: require('@site/static/img/payment.svg').default,
     description: (
       <>
         Secure your financial information with our safe email verification payment system.
@@ -54,7 +54,7 @@ const FeatureList = [
   
   {
     title: 'Keep No Track of Emails',
-    Svg: require('@site/static/img/free_emails_check.svg').default,
+    Svg: require('@site/static/img/track_of_email.svg').default,
     description: (
       <>
         Ensure privacy and no tracking with our confidential email validation solution.
